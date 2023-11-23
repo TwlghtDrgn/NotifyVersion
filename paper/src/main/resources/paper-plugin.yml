@@ -1,0 +1,12 @@
+name: NotifyVersion
+version: '${project.version}'
+main: net.twlghtdrgn.notifyversion.paper.NotifyVersionPaper
+api-version: '1.20'
+authors: [ TwlghtDrgn ]
+description: 'Send versioned messages to every player'
+website: 'https://github.com/TwlghtDrgn/NotifyVersion'
+dependencies:
+    server:
+        TwilightLib:
+            required: true
+            load: BEFORE
