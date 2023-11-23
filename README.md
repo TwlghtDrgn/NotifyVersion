@@ -1,4 +1,6 @@
 # NotifyVersion
-#### Alert your players about EOL of their client version
-Plugin for Minecraft 1.19.2.
-Requires ViaVersion & ViaBackwards to work
+#### Allows you to remind your players about their client version
+
+A plugin for Velocity (3.2.0+) & Paper (1.20+)
+
+Requires [TwilightLib](https://github.com/TwlghtDrgn/TwilightLib)
